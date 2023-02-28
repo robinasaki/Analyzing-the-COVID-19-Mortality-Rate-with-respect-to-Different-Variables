@@ -21,6 +21,8 @@ To ensure precision and integrity, more detailed summaries are broken down and g
 
 > COVID-19 Variants: *https://www.kaggle.com/datasets/gpreda/covid19-variants*
 
+> GDP per Capita: *https://data.worldbank.org/indicator/NY.GDP.PCAP.CD*
+
 <br>
 
 *last updated 2023-02-26*
