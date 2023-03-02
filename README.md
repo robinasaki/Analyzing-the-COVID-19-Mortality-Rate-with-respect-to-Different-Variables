@@ -23,6 +23,13 @@ To ensure precision and integrity, more detailed summaries are broken down and g
 
 > GDP per Capita: *https://data.worldbank.org/indicator/NY.GDP.PCAP.CD*
 
+> GDP: *https://data.worldbank.org/indicator/NY.GDP.MKTP.CD*
+
+> Dictatorship Index: *https://www.kaggle.com/datasets/mathurinache/democracy-dictatorship-index*
+
+> Country Code: *https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes*
+
+> Literacy Rate: *https://data.worldbank.org/indicator/SE.ADT.LITR.ZS*
 <br>
 
-*last updated 2023-02-26*
+*last updated 2023-03-02*
